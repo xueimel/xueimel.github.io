@@ -1,21 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Xueimel's Github Page
+If I wasn't so overwhelmed by the thought of linking in all my repos here, I could see how this would be useful.
 
-You can use the [editor on GitHub](https://github.com/xueimel/xueimel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
+Some of them anyways:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- (Deductions (_Python_) )[https://github.com/xueimel/Deductions]
 - List
 
 1. Numbered
