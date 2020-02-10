@@ -4,7 +4,7 @@ If I wasn't so overwhelmed by the thought of linking in all my repos here, I cou
 ### Projects
 Some of them anyways:
 
-- (Deductions (_Python_) )[https://github.com/xueimel/Deductions]
+- [Deductions _Python_](https://github.com/xueimel/Deductions)
 - List
 
 1. Numbered
